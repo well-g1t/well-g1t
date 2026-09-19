@@ -24,7 +24,7 @@ Trabalho principalmente com **Python (Django e Flask)**, **Node.js** e **React**
 
 | Projeto | O que demonstra | Tecnologias principais |
 | --- | --- | --- |
-| **Sistema de gestão para estúdio de beleza** | Agenda, clientes, caixa diário, estoque, programa de fidelidade e lembretes automáticos por WhatsApp | React, Flask, PostgreSQL, Docker |
+| **WSoft Studio** | Agenda, clientes, caixa diário, estoque, programa de fidelidade e lembretes automáticos por WhatsApp | React, Flask, PostgreSQL, Docker |
 | **WSoft Estoque** *(em desenvolvimento)* | Venda por bipagem pela câmera do celular, controle por tamanho e variação, histórico de movimentações | Node.js, Express, SQLite, PWA |
 | **WSoft Manager** | Clientes, orçamentos, contratações, cobrança recorrente e hospedagens, com relatórios em PDF e CSV | Django, PostgreSQL, ReportLab |
 
