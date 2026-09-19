@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Sou graduando em **Engenharia de Software** e desenvolvo sistemas web sob medida para pequenas e médias empresas — da gestão interna ao que o cliente final vê. Acompanho o projeto do levantamento do processo até o sistema no ar.
+Sou graduando em **Engenharia de Software** e desenvolvo sistemas e sites sob medida para pequenas e médias empresas — da gestão interna ao que o cliente final vê. Acompanho o projeto do levantamento do processo até o sistema no ar.
 
 Trabalho principalmente com **Python (Django e Flask)**, **Node.js** e **React**, com **PostgreSQL** e **Docker** na base. A maior parte do que entrego são sistemas que uma equipe usa todo dia, então priorizo telas simples, regras de negócio bem fechadas e dados que não se perdem.
 
