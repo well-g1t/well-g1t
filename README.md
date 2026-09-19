@@ -1,27 +1,55 @@
-## Wellington Silva
+<div align="center">
 
-**WSoft** — Soluções Digitais para Empresas
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d6efd&height=200&section=header&text=Wellington%20Silva&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=WSoft%20%E2%80%94%20Solu%C3%A7%C3%B5es%20Digitais%20para%20Empresas&descSize=18&descAlignY=58" alt="Wellington Silva - WSoft" />
+
+**[E-mail](mailto:wa03112022@gmail.com)**
+
+</div>
+
+## Sobre mim
 
 Desenvolvo sistemas web sob medida para pequenas e médias empresas — da gestão interna ao que o cliente final vê. Acompanho o projeto do levantamento do processo até o sistema no ar.
 
-### O que eu entrego
+Trabalho principalmente com **Python (Django e Flask)**, **Node.js** e **React**, com **PostgreSQL** e **Docker** na base. A maior parte do que entrego são sistemas que uma equipe usa todo dia, então priorizo telas simples, regras de negócio bem fechadas e dados que não se perdem.
 
-- **Sistemas de gestão sob medida** — agenda, clientes, estoque, financeiro e relatórios, construídos em cima do processo que a empresa já usa
-- **Sites e páginas de Link na Bio** — um endereço único que reúne WhatsApp, Instagram, localização e catálogo: abre rápido no celular e leva o cliente ao contato em um toque
-- **Manutenção de sistemas já entregues** — correção de falhas, ajuste de regras, novas telas e suporte a quem usa o sistema todo dia
+## O que eu entrego
 
-### Tecnologias
+| Serviço | O que inclui |
+| --- | --- |
+| **Sistemas de gestão sob medida** | Agenda, clientes, estoque, financeiro e relatórios, construídos em cima do processo que a empresa já usa |
+| **Sites e páginas de Link na Bio** | Um endereço único com WhatsApp, Instagram, localização e catálogo: abre rápido no celular e leva ao contato em um toque |
+| **Manutenção de sistemas já entregues** | Correção de falhas, ajuste de regras, novas telas e suporte a quem usa o sistema todo dia |
 
-Python (Django, Flask) · Node.js (Express) · React · JavaScript · PostgreSQL · SQLite · Docker · Nginx · Linux
+## Projetos
 
-### Alguns projetos
+| Projeto | O que demonstra | Tecnologias principais |
+| --- | --- | --- |
+| **Sistema de gestão para estúdio de beleza** | Agenda, clientes, caixa diário, estoque, programa de fidelidade e lembretes automáticos por WhatsApp | React, Flask, PostgreSQL, Docker |
+| **Controle de estoque com código de barras** | Venda por bipagem pela câmera do celular, controle por tamanho e variação, histórico de movimentações | Node.js, Express, SQLite, PWA |
+| **Sistema administrativo interno** | Clientes, orçamentos, contratações, cobrança recorrente e hospedagens, com relatórios em PDF e CSV | Django, PostgreSQL, ReportLab |
 
-- **Sistema de gestão para estúdio de beleza** — agenda, cadastro de clientes, caixa diário, estoque, programa de fidelidade e lembretes automáticos por WhatsApp. React, Flask, PostgreSQL e Docker.
-- **Controle de estoque com leitura de código de barras** — venda por bipagem pela câmera do celular, controle por tamanho e variação, histórico de movimentações. Node.js, SQLite e PWA.
-- **Sistema administrativo interno** — clientes, orçamentos, contratações, cobrança recorrente, projetos e hospedagens em um só lugar, com relatórios em PDF e CSV. Django e PostgreSQL.
+> São sistemas de clientes em operação, por isso o código está em repositórios privados. Posso apresentar o funcionamento em uma demonstração.
 
-A maior parte do meu código está em projetos de clientes, em repositórios privados.
+## Tecnologias
 
-### Contato
+<div align="center">
 
-wa03112022@gmail.com
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" alt="React, JavaScript, HTML, CSS, Bootstrap" />
+
+**Back-end e dados**
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express,postgres,sqlite" alt="Python, Django, Flask, Node.js, Express, PostgreSQL, SQLite" />
+
+**Ferramentas e infraestrutura**
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vscode" alt="Docker, Nginx, Linux, Git, GitHub, VS Code" />
+
+</div>
+
+## Contato
+
+Aberto a novos projetos, parcerias e conversas sobre sistemas sob medida.
+
+- **E-mail:** wa03112022@gmail.com
