@@ -58,5 +58,5 @@ Trabalho principalmente com **Python (Django e Flask)**, **Node.js** e **React**
 
 Aberto a novos projetos, parcerias e conversas sobre sistemas sob medida.
 
-- **LinkedIn:** [linkedin.com/in/wellingtonsilva-wsoft](https://www.linkedin.com/in/wellingtonsilva-wsoft)
-- **E-mail:** wa03112022@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/wellingtonsilva-wsoft)
+- [wa03112022@gmail.com](mailto:wa03112022@gmail.com)
