@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d6efd&height=200&section=header&text=Wellington%20Silva&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=WSoft%20%E2%80%94%20Solu%C3%A7%C3%B5es%20Digitais%20para%20Empresas&descSize=18&descAlignY=58" alt="Wellington Silva - WSoft" />
 
-**[E-mail](mailto:wa03112022@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/wellingtonsilva-wsoft)** · **[E-mail](mailto:wa03112022@gmail.com)**
 
 </div>
 
@@ -58,4 +58,5 @@ Trabalho principalmente com **Python (Django e Flask)**, **Node.js** e **React**
 
 Aberto a novos projetos, parcerias e conversas sobre sistemas sob medida.
 
+- **LinkedIn:** [linkedin.com/in/wellingtonsilva-wsoft](https://www.linkedin.com/in/wellingtonsilva-wsoft)
 - **E-mail:** wa03112022@gmail.com
